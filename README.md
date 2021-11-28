@@ -12,7 +12,9 @@
 
 # UI Designing 
 
-  ![Image](images\DrumKIt.png)
+<img src="images\DrumKIt.png">
+
+  <!-- ![Image]() -->
 
 
 # Stack of the Project
