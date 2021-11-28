@@ -7,7 +7,7 @@
 
 # Live Demo
 
-- You can play the drum at : [Play Now](https://github.com/AbhijeetAnand45/Drum-kit.git) 
+- You can play the drum at : [Play Now](https://abhijeetanand45.github.io/Drum-kit/) 
 
 
 # UI Designing 
